@@ -6,6 +6,7 @@ export default class BTGameRedux extends Component {
         return (
             <div>
                 Bài tập game oẳn tù xì
+                hello world
                 {ThongTin}
             </div>
         )
